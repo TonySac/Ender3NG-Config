@@ -1,0 +1,16 @@
+# General files to ignore
+._*
+._.*
+.DS_Store
+
+#Klipper ignores
+*.bak
+*.backup
+*.bkp
+*.*.bkp
+printer*
+!printer.cfg
+mainsail.cfg
+fluidd.cfg
+/KAMP
+/.theme
