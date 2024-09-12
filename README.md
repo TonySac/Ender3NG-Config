@@ -1,6 +1,6 @@
 # Klipper Config for my Ender 3 NG
 
-⚠️ Depricated ⚠️ As of Sept 2024 I no longer have this project printer.
+⚠️ Depreciated ⚠️ As of Sept 2024 I no longer have this project printer.
 
 Current working Klipper config for my Ender 3 NG. Working as in I'm still working on it but it also works.
 
