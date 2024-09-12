@@ -1,5 +1,7 @@
 # Klipper Config for my Ender 3 NG
 
+⚠️ Depricated ⚠️ As of Sept 2024 I no longer have this project printer.
+
 Current working Klipper config for my Ender 3 NG. Working as in I'm still working on it but it also works.
 
 > See the Ender 3 NG project on [printables](https://www.printables.com/model/469280-ender-3-ng-corexy-beta).
